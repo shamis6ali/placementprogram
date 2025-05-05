@@ -6,7 +6,7 @@
 ---
 
 ## 🗒️ Overview
-Recruitment agency **Power Recruitment** (Bloomington, IN) wants to estimate—before investing in a client—whether that applicant will ultimately secure a U.S. graduate‑program placement.  
+Recruitment agency **Power Recruitment** (Bloomington, IN) wants to estimate before investing in a client, whether that applicant will ultimately secure a U.S. graduate‑program placement.  
 Using the **Job Placement Dataset** from Kaggle, this project:
 
 1. Cleans & encodes the raw CSV.  
